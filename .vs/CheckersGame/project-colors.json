@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70e86064-f4f6-433f-8ba1-2235a16d4834": {
+      "ProjectGuid": "70e86064-f4f6-433f-8ba1-2235a16d4834",
+      "DisplayName": "CheckersGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
